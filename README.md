@@ -1,2 +1,3 @@
 # txtnotif
-Text message notification using the Twilio API.
+
+A text notification script, based on python, that can send you text notifications directly to your mobile phone.
